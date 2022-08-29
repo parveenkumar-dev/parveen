@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @parveenpaul
+- 🌱 I’m currently working in javascript
+- 💞️ I’m looking to collaborate in the projects
+- 📫 Reach me on paulparveen01@gmail.com
